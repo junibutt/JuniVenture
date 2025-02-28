@@ -10,7 +10,7 @@ function HeaderContent() {
       <div className="flex items-center justify-center  mx-auto bg-white rounded-3xl h-12 ">
         <MdOutlineEmail className="text-black ml-4" />
         <input
-          className='text-black  w-[210px] px-2 rounded-3xl focus:outline-none sm:w-[210px] md:w-[250px] lg:w-[380px] '
+          className='text-black  w-[210px] px-2 rounded-3xl focus:outline-none sm:w-[210px] md:w-[300px] lg:w-[380px] '
           type='email'
           placeholder='Enter Your E-Mail Please!'
           

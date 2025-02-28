@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Turkey",
+    "daysLeft": 10,
+    "price": 900
+  },
+  {
+    "title": "Bali",
+    "daysLeft": 15,
+    "price": 999
+  },
+  {
+    "title": "London",
+    "daysLeft": 5,
+    "price": 1666
+  },
+  {
+    "title": "Paris",
+    "daysLeft": 20,
+    "price": 1599
+  }
+]

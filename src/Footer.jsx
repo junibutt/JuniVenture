@@ -8,7 +8,7 @@ function Footer() {
     <div>
       <hr className="border-t-2 border-gray-300 font-bold" />
       <div className="bg-white py-4">
-        <div className="text-sm text-gray-500 text-center md:text-lg lg:text-lg">
+        <div className="text-xs text-gray-500 text-center md:text-lg lg:text-lg">
           <span className="px-2 cursor-pointer">Home</span> | 
           <span className="px-2 cursor-pointer">This Week Deals</span> | 
           <span className="px-2 cursor-pointer">LogIn</span> | 
@@ -25,11 +25,11 @@ function Footer() {
           <strong>Juni</strong>Venture
         </div>
 
-        <div className="text-sm text-center md:text-lg lg:text-xl">
+        <div className="text-xs text-center md:text-lg lg:text-xl">
           <p>©2025 JuniVenture. All rights reserved.</p>
         </div>
 
-        <div className="flex space-x-2 text-gray-500 md:text-lg lg:text-xl">
+        <div className="flex space-x-2 text-gray-500 ">
           <FaPaypal size={24} />
           <FaCcVisa size={24} />
           <FaCcAmazonPay size={24} />

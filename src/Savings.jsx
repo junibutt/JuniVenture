@@ -23,7 +23,7 @@ function Savings() {
         </div>
         <div className='flex-shrink-0 w-1/3 flex flex-col items-center justify-center'> {/* Set width and prevent shrinking */}
           <h1 className='relative z-10  font-bold text-white pb-3 text-center whitespace-nowrap md:text-xl lg:text-2xl'>• Exclusive Deals</h1>
-          <p className='relative z-10 text-white text-sm font-bold text-center md:text-xl lg:text-2xl'>Exciting offer to save <br/>more money on<br/> single deal!</p>
+          <p className='relative z-10 text-white text-sm font-bold text-center md:text-xl lg:text-2xl'>Exciting offer to <br/>more money on<br/> single deal!</p>
         </div>
       </div>
     </div>
